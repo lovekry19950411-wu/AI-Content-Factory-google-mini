@@ -1,0 +1,6 @@
+{
+  "name": "AI 影片製片廠 - AI Video Studio",
+  "description": "一站式智能影音生產大腦，包含腳本策劃、AI 剪輯、智能字幕與配音。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Video Production", "Smart Editing", "Subtitles Generation"]
+}
