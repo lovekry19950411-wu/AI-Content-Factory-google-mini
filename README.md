@@ -10,6 +10,11 @@
 - **AI Engine**: Google Gemini 2.0 Flash (via `@google/generative-ai`)
 - **Icons**: Lucide React
 
+##   確認我對此專案的所有權：
+- **Support this project on Giveth: 
+-    公開驗證連結：
+-    https://giveth.io/project/ai-content-factory:-one-click-web2-to-web3-content
+
 ## 📂 安裝與運行
 1. **導出專案**: 在 AI Studio 設定選單中選擇「Export to ZIP」。
 2. **安裝依賴**: 
@@ -35,8 +40,3 @@
 - **GEMINI_API_KEY**: 從 [Google AI Studio](https://aistudio.google.com/) 獲取。
 - **VIDEO_SERVICE_KEY**: (可選) 連結渲染引擎如 Luma/Runway。
 - **TTS_SERVICE_KEY**: (可選) 連結高品質配音服務。
-
-確認我對此專案的所有權：
-Support this project on Giveth: 
-公開驗證連結：
-https://giveth.io/project/ai-content-factory:-one-click-web2-to-web3-content
